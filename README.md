@@ -1,2 +1,1 @@
-Project Objective:  
-The rising potential of this comparatively under-the-radar market fuels the need for an ML-based solution to develop a dynamic pricing strategy for used and refurbished devices. ReCell, a startup aiming to tap the potential in this market, has hired you as a data scientist. Analyze the data provided and build a linear regression model to predict the price of a used phone/tablet and identify factors that significantly influence it. Data Description¶
+
